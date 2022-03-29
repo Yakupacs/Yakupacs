@@ -1,4 +1,4 @@
-# *Hi guys, I'm Yakup👋👋*
+# *Hi guys, I'm Yakup 👋🏼*
 
 ![GİTHUB](https://user-images.githubusercontent.com/73075252/160620535-83cacf4a-2aa6-4310-b646-a47558667b93.png)
 
