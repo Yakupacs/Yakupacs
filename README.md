@@ -1,5 +1,8 @@
 # · Hi guys, I'm Yakup👋👋
 
+![GİTHUB](https://user-images.githubusercontent.com/73075252/160620535-83cacf4a-2aa6-4310-b646-a47558667b93.png)
+
+
  - *🌱 I’m currently learning Python, C, C# and SQL Server.*
  - *🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)*
  - *📫 How to reach me: [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/), [Instagram](https://www.instagram.com/yakupacs/)*
