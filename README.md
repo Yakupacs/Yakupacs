@@ -1,6 +1,7 @@
-## Hi, I'm Yakup
+## Hi guys, I'm Yakup
 
-🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)
+- 🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yakup-açış-aa77751ab/)
 <!--
 **Yakupacs/Yakupacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
