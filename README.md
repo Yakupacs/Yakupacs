@@ -1,8 +1,11 @@
 # · Hi guys, I'm Yakup👋👋
 
- - 🌱 I’m currently learning Python, C, C# and SQL Server.
- - 🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)
- - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/), [Instagram](https://www.instagram.com/yakupacs/)
+ - *🌱 I’m currently learning Python, C, C# and SQL Server.*
+ - *🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)*
+ - *📫 How to reach me: [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/), [Instagram](https://www.instagram.com/yakupacs/)*
+ - *Now you can buy me a coffee! <3*
+
+<a href="https://www.buymeacoffee.com/yakupacs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 **Yakupacs/Yakupacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
