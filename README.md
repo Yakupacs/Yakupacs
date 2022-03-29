@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Status:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
