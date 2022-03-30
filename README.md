@@ -1,6 +1,6 @@
 # *Hi, I'm Yakup 👋🏼*
 
-<img src="https://user-images.githubusercontent.com/73075252/160915038-e8745e33-befd-4043-8bcf-7fc1d9bdd158.png" width="500">
+<img src="https://user-images.githubusercontent.com/73075252/160915038-e8745e33-befd-4043-8bcf-7fc1d9bdd158.png" width="800">
 
 
  - *🌱 I’m currently learning Python, C, C# and SQL Server.*
