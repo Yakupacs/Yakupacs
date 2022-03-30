@@ -4,9 +4,9 @@
 <img src="https://user-images.githubusercontent.com/73075252/160915038-e8745e33-befd-4043-8bcf-7fc1d9bdd158.png" width="700">
 
 
- - *🌱 I’m currently learning Python, C, C# and SQL Server.*
- - *🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)*
- - *📫 How to reach me: [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/), [Instagram](https://www.instagram.com/yakupacs/)*
+ - 🌱 I’m currently learning Python, C, C# and SQL Server.
+ - 🔭 I’m currently working on [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git)
+ - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/), [Instagram](https://www.instagram.com/yakupacs/)
 
 
 
