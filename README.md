@@ -1,6 +1,6 @@
 # *Hi, I'm Yakup 👋🏼*
 
-![GİTHUbB](https://user-images.githubusercontent.com/73075252/160914389-be543620-fe93-4cf1-aa6f-3d69e44d0cc7.png)
+![GİTHUbB](https://user-images.githubusercontent.com/73075252/160914389-be543620-fe93-4cf1-aa6f-3d69e44d0cc7-small.png)
 
 
  - *🌱 I’m currently learning Python, C, C# and SQL Server.*
