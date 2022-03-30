@@ -8,13 +8,21 @@
  - *📫 How to reach me: [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/), [Instagram](https://www.instagram.com/yakupacs/)*
 
 
---
+
+
+------
+
+
 
 
 ### My Status:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
 
+
+
 --------
+
+
 
  - *☕️ Now you can buy me a coffee!*
  
