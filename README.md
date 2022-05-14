@@ -17,11 +17,11 @@
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
 
-## My Stats:
+## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
 
 
-## Langs:
+## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&layout=compact)](https://github.com/yakupacs)
 
 
