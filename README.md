@@ -11,19 +11,19 @@
 
 
 ------
-### I’m currently working on <br>
-·[Libft](https://github.com/Yakupacs/Libft) <br>
-·[Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
-·[HTML Exercises](https://github.com/Yakupacs/HTML-Cursus-BTK) <br>
-·[HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
-·[SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
+## I’m currently working on <br>
+•[Libft](https://github.com/Yakupacs/Libft) <br>
+•[Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
+•[HTML Exercises](https://github.com/Yakupacs/HTML-Cursus-BTK) <br>
+•[HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
+•[SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
 ------
-### My Stats:
+## My Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
 
 ---------
-### Langs:
+## Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&layout=compact)](https://github.com/yakupacs)
 --------
 
