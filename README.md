@@ -3,27 +3,27 @@
 
 <img src="https://user-images.githubusercontent.com/73075252/160915038-e8745e33-befd-4043-8bcf-7fc1d9bdd158.png" width="700">
 
--------
-### How to reach me <br>
+
+## How to reach me <br>
 • [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/) <br>
 • [Instagram](https://www.instagram.com/yakupacs/) <br>
 
-------
-### I’m currently working on <br>
+
+## I’m currently working on <br>
 • [Libft](https://github.com/Yakupacs/Libft) <br>
 • [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
 • [HTML Exercises](https://github.com/Yakupacs/HTML-Cursus-BTK) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
-------
-### My Stats:
+
+## My Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
 
----------
-### Langs:
+
+## Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&layout=compact)](https://github.com/yakupacs)
---------
+
 
 
 
