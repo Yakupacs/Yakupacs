@@ -12,7 +12,7 @@
 [linkedin]:https://www.linkedin.com/in/yakupacs/
 [instagram]:https://www.instagram.com/yakupacs/
 
-
+<br>
 ## I’m currently working on <br>
 • [Libft](https://github.com/Yakupacs/Libft) <br>
 • [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
