@@ -9,8 +9,8 @@
 </br>
 
 ## How to reach me <br>
-[linkedin]: (https://www.linkedin.com/in/yakupacs/)
-[instagram]: (https://www.instagram.com/yakupacs/)
+[linkedin]:https://www.linkedin.com/in/yakupacs/
+[instagram]:https://www.instagram.com/yakupacs/
 
 
 ## I’m currently working on <br>
