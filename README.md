@@ -10,7 +10,6 @@
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 
 <br/>
-<br/>
 
 [linkedin]:https://www.linkedin.com/in/yakupacs/
 [instagram]:https://www.instagram.com/yakupacs/
