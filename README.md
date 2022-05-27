@@ -8,11 +8,13 @@
 ## How to reach me <br>
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sololearn.svg" align="left" />][sololearn]
 
 <br/>
 
 [linkedin]:https://www.linkedin.com/in/yakupacs/
 [instagram]:https://www.instagram.com/yakupacs/
+[sololearn]:https://www.sololearn.com/profile/20751899
 
 <br/>
 
