@@ -5,7 +5,8 @@
 
 
 ## How to reach me <br>
-• [Linkedln](https://www.linkedin.com/in/yakup-açış-aa77751ab/) <br>
+[linkedin]: https://www.linkedin.com/in/yakupacs/
+• [Linkedln](https://www.linkedin.com/in/yakupacs/)) <br>
 • [Instagram](https://www.instagram.com/yakupacs/) <br>
 
 
