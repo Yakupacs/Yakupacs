@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73075252/160915038-e8745e33-befd-4043-8bcf-7fc1d9bdd158.png" width="700">
 
-
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[ICON SLUG].svg" />] [linkedin]
 ## How to reach me <br>
 [linkedin]: https://www.linkedin.com/in/yakupacs/
 [instagram]: https://www.instagram.com/yakupacs/
