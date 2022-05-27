@@ -8,11 +8,14 @@
 ## How to reach me <br>
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
+
 <br/>
 <br/>
+
 [linkedin]:https://www.linkedin.com/in/yakupacs/
 [instagram]:https://www.instagram.com/yakupacs/
 
+<br/>
 
 ## I’m currently working on <br>
 • [Libft](https://github.com/Yakupacs/Libft) <br>
