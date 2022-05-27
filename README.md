@@ -10,6 +10,7 @@
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sololearn.svg" align="left" />][sololearn]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackerrank.svg" align="left" />][hackerrank]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" align="left" />][stackoverflow]
 
 <br/>
 
@@ -17,6 +18,7 @@
 [instagram]:https://www.instagram.com/yakupacs/
 [sololearn]:https://www.sololearn.com/profile/20751899
 [hackerrank]:https://www.hackerrank.com/ykpacs
+[stackoverflow]:https://stackoverflow.com/users/19217480/yakup-açış
 
 <br/>
 
