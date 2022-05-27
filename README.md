@@ -5,8 +5,8 @@
 
 
 ## How to reach me <br>
-[linkedin]: https://www.linkedin.com/in/yakupacs/ <br>
-• [Instagram](https://www.instagram.com/yakupacs/) <br>
+[linkedin]: https://www.linkedin.com/in/yakupacs/
+[instagram]: https://www.instagram.com/yakupacs/
 
 
 ## I’m currently working on <br>
