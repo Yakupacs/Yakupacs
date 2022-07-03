@@ -4,7 +4,7 @@
 
 ## Hi, I'm Yakup Açış
 *I live in Istanbul, Turkey. I am studying Computer Engineering from Beykent University.*
-![](https://komarev.com/ghpvc/yakupacs)
+![](https://komarev.com/ghpvc/?username=yakupacs)
 </br>
 
 ## How to reach me
