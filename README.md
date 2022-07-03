@@ -2,7 +2,8 @@
   <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/177059081-57cd4b58-608e-4317-963d-892b0503033f.gif">
 </p>
 
-Hi, I'm Yakup Açış
+## Hi, I'm Yakup Açış
+
 </br>
 
 ## How to reach me <br>
