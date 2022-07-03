@@ -1,5 +1,4 @@
-<img align="center" 
-data-canonical-src="https://komarev.com/ghpvc/?username=yakupacs&amp;&amp;color=blue&amp;style=flat-square" style="max-width: 100%;">
+![](https://komarev.com/ghpvc/?username=yakupacs)
 
 <p align="center">
   <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/177059081-57cd4b58-608e-4317-963d-892b0503033f.gif">
