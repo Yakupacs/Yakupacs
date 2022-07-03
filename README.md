@@ -1,5 +1,3 @@
-# Hi, I'm Yakup
-
 <p align="center">
   <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/177058883-6be90c9a-8004-4e29-b465-e6bab445c240.gif">
 </p>
