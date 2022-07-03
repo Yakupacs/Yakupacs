@@ -1,3 +1,4 @@
+<img data-canonical-src="https://komarev.com/ghpvc/?username=yakupacs&color=yellow)" style="max-width: 100%;">
 ![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
 
 <p align="center">
