@@ -3,12 +3,12 @@
 </p>
 
 ## Hi, I'm Yakup Açış
-I live in Istanbul, Turkey. I am studying Computer Engineering from Beykent University.
+*I live in Istanbul, Turkey. I am studying Computer Engineering from Beykent University.*
 
 </br>
 
 ## How to reach me
-You can reach me below.
+*You can reach me below.*
 <br/>
 <br/>
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
