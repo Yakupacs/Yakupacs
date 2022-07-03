@@ -1,7 +1,7 @@
 # Hi, I'm Yakup
 
 
-<img src="https://user-images.githubusercontent.com/73075252/177058775-c0cb06c0-667d-4753-b0f6-4652ff9de21d.gif" width="700">
+<img src="https://user-images.githubusercontent.com/73075252/177058775-c0cb06c0-667d-4753-b0f6-4652ff9de21d.gif" width="500">
 
 </br>
 
