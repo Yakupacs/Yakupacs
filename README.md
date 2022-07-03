@@ -9,7 +9,8 @@ I live in Istanbul, Turkey. I am studying Computer Engineering from Beykent Univ
 
 ## How to reach me
 You can reach me below.
-<br>
+<br/>
+<br/>
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sololearn.svg" align="left" />][sololearn]
