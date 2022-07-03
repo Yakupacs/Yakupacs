@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yakupacs&color=blue)
+![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
 
 <p align="center">
   <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/177059081-57cd4b58-608e-4317-963d-892b0503033f.gif">
