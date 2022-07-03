@@ -1,6 +1,3 @@
-<img data-canonical-src="https://komarev.com/ghpvc/?username=yakupacs&color=yellow)" style="max-width: 100%;">
-![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
-
 <p align="center">
   <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/177059081-57cd4b58-608e-4317-963d-892b0503033f.gif">
 </p>
@@ -46,8 +43,8 @@
 ## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&layout=compact)](https://github.com/yakupacs)
 
-
-
+## Views
+![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
 
  *☕️ Now you can buy me a coffee!*
  
