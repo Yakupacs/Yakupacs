@@ -28,6 +28,7 @@
 <br/>
 
 ## I’m currently working on <br>
+• [Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
 • [Libft](https://github.com/Yakupacs/Libft) <br>
 • [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
 • [HTML Exercises](https://github.com/Yakupacs/HTML-Cursus-BTK) <br>
