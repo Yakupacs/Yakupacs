@@ -3,7 +3,7 @@
 </p>
 
 ## Hi, I'm Yakup Açış
-Hi, I am Yakup Açış. I live in Istanbul, Turkey. I am studying Computer Science from Beykent University.
+I live in Istanbul, Turkey. I am studying Computer Science from Beykent University.
 
 </br>
 
