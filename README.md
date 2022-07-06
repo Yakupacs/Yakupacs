@@ -28,9 +28,9 @@
 <br/>
 
 ## I’m currently working on <br>
-• [Get Next Line(Ecole 42)](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
-• [Printf(Ecole 42)](https://github.com/Yakupacs/Ecole42_Printf) <br>
-• [Libft(Ecole 42)](https://github.com/Yakupacs/Libft) <br>
+• [Get Next Line (Ecole 42)](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
+• [Printf (Ecole 42)](https://github.com/Yakupacs/Ecole42_Printf) <br>
+• [Libft (Ecole 42)](https://github.com/Yakupacs/Libft) <br>
 • [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
 • [HTML Exercises](https://github.com/Yakupacs/HTML-Cursus-BTK) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
