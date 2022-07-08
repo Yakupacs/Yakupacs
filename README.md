@@ -51,16 +51,16 @@
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
 | 1  | libft   | Success |  | 10A | cub3d   | Lock   |  | 20 | NetPractice | Lock   |
-| 2  | born2beroot   | Success |  | 10B | cub3d   | Lock   |  | 21 | NetPractice | Lock   |
+| 2  | born2beroot   | Lock |  | 10B | cub3d   | Lock   |  | 21 | NetPractice | Lock   |
 | 3  | ft_printf   | Success |  | 11 | cub3d   | Lock   |  | 22 | NetPractice | Lock   |
 | 4  | get_next_line   | Success |  | 12 | cub3d   | Lock   |  | 23 | NetPractice | Lock   |
-| 5A  | Libft   | Success |  | 13 | cub3d   | Lock   |  | 24 | a | Lock   |
-| 5B  | Libft   | Success |  | 14 | cub3d   | Lock   |  |  |  |    |
-| 6A  | Libft   | Success |  | 15 | cub3d   | Lock   |  |  |  |    |
-| 6B  | Libft   | Success |  | 16 | cub3d   | Lock   |  |  |  |   |
-| 7  | Libft   | Success |  | 17 | cub3d   | Lock   |  |  |  |    |
-| 8  | Libft   | Success |  | 18 | cub3d   | Lock   |  |  |  |    |
-| 9  | Libft   | Success |  | 19 | cub3d   | Lock   |  |  |  |    |
+| 5A  | FdF   | Lock |  | 13 | cub3d   | Lock   |  | 24 | a | Lock   |
+| 5B  | so_long   | Lock |  | 14 | cub3d   | Lock   |  |  |  |    |
+| 6A  | minitalk   | Lock |  | 15 | cub3d   | Lock   |  |  |  |    |
+| 6B  | pipex   | Lock |  | 16 | cub3d   | Lock   |  |  |  |   |
+| 7  | push_swap   | Lock |  | 17 | cub3d   | Lock   |  |  |  |    |
+| 8  | minishell   | Lock |  | 18 | cub3d   | Lock   |  |  |  |    |
+| 9  | philosphers   | Lock |  | 19 | cub3d   | Lock   |  |  |  |    |
 
  *☕️ Now you can buy me a coffee!*
  
