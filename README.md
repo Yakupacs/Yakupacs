@@ -55,7 +55,7 @@
 | 3  | ft_printf   | Success |  | 11 | CPP Module 00   | Lock   |  | 22A | ft_irc | Lock   |
 | 4  | get_next_line   | Success |  | 12 | CPP Module 01   | Lock   |  | 22B | webserv | Lock   |
 | 5A  | FdF   | Lock |  | 13 | CPP Module 02   | Lock   |  | 23 | inception | Lock   |
-| 5B  | so_long   | Lock |  | 14 | CPP Module 03   | Lock   | 24 | ft_transcendence | Lock |    |
+| 5B  | so_long   | Lock |  | 14 | CPP Module 03   | Lock   |  | 24 | ft_transcendence | Lock   |
 | 6A  | minitalk   | Lock |  | 15 | CPP Module 04   | Lock   |  |  |  |    |
 | 6B  | pipex   | Lock |  | 16 | CPP Module 05   | Lock   |  |  |  |   |
 | 7  | push_swap   | Lock |  | 17 | CPP Module 06   | Lock   |  |  |  |    |
