@@ -62,8 +62,10 @@
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  |  |  |    |
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  |  |  |    |
 
-## Views
-![](https://komarev.com/ghpvc/?username=yakupacs&color=blue)
+## Profile Views
+<p align="center">
+  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=yakupacs&color=blue">
+</p>
 
  *☕️ Now you can buy me a coffee!*
  
