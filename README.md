@@ -51,16 +51,16 @@
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
 | 1  | libft   | Success |  | 10A | cub3d   | Lock   |  | 20 | NetPractice | Lock   |
-| 2  | born2beroot   | Lock |  | 10B | cub3d   | Lock   |  | 21 | NetPractice | Lock   |
-| 3  | ft_printf   | Success |  | 11 | cub3d   | Lock   |  | 22 | NetPractice | Lock   |
-| 4  | get_next_line   | Success |  | 12 | cub3d   | Lock   |  | 23 | NetPractice | Lock   |
-| 5A  | FdF   | Lock |  | 13 | cub3d   | Lock   |  | 24 | a | Lock   |
-| 5B  | so_long   | Lock |  | 14 | cub3d   | Lock   |  |  |  |    |
-| 6A  | minitalk   | Lock |  | 15 | cub3d   | Lock   |  |  |  |    |
-| 6B  | pipex   | Lock |  | 16 | cub3d   | Lock   |  |  |  |   |
-| 7  | push_swap   | Lock |  | 17 | cub3d   | Lock   |  |  |  |    |
-| 8  | minishell   | Lock |  | 18 | cub3d   | Lock   |  |  |  |    |
-| 9  | philosphers   | Lock |  | 19 | cub3d   | Lock   |  |  |  |    |
+| 2  | born2beroot   | Lock |  | 10B | miniRT   | Lock   |  | 21 | ft_containers | Lock   |
+| 3  | ft_printf   | Success |  | 11 | CPP Module 00   | Lock   |  | 22A | ft_irc | Lock   |
+| 4  | get_next_line   | Success |  | 12 | CPP Module 01   | Lock   |  | 22B | webserv | Lock   |
+| 5A  | FdF   | Lock |  | 13 | CPP Module 02   | Lock   |  | 23 | inception | Lock   |
+| 5B  | so_long   | Lock |  | 14 | CPP Module 03   | Lock   | 24 | ft_transcendence | Lock |    |
+| 6A  | minitalk   | Lock |  | 15 | CPP Module 04   | Lock   |  |  |  |    |
+| 6B  | pipex   | Lock |  | 16 | CPP Module 05   | Lock   |  |  |  |   |
+| 7  | push_swap   | Lock |  | 17 | CPP Module 06   | Lock   |  |  |  |    |
+| 8  | minishell   | Lock |  | 18 | CPP Module 07   | Lock   |  |  |  |    |
+| 9  | philosphers   | Lock |  | 19 | CPP Module 08   | Lock   |  |  |  |    |
 
  *☕️ Now you can buy me a coffee!*
  
