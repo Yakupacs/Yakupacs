@@ -47,12 +47,14 @@
 ## Views
 ![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
 
-<br/>
+<br>
+<br>
 
 | No | Project | Status |  | No | Project | Status |  | No | Project | Status |
 | 1 | Libft | Success |  | 10A | cub3d | Lock |  | 20 | NetPractice | Lock |
 
-<br/>
+<br>
+<br>
 
  *☕️ Now you can buy me a coffee!*
  
