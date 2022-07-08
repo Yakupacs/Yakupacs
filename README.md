@@ -63,7 +63,7 @@
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  |  |  |    |
 
 ## Views
-![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
+![](https://komarev.com/ghpvc/?username=yakupacs&color=blue)
 
  *☕️ Now you can buy me a coffee!*
  
