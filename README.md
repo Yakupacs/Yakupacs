@@ -47,7 +47,7 @@
 ## Views
 ![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
 
-## Ecole 42
+## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
 | 1  | libft   | Success |  | 10A | cub3d   | Lock   |  | 20 | NetPractice | Lock   |
