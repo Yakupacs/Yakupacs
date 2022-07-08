@@ -50,13 +50,9 @@
 <br>
 <br>
 
-| No | Project | Status |  | No | Project | Status |  | No | Project | Status |
-| 1 | Libft | Success |  | 10A | cub3d | Lock |  | 20 | NetPractice | Lock |
+| No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
+| 1  | Libft   | Success |  | 10A | cub3d   | Lock   |  | 20 | NetPractice | Lock   |
 
-| No | Project | Status |  | No | Project | Status |  | No | Project | Status |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
 
 <br>
 <br>
