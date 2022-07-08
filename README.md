@@ -53,6 +53,11 @@
 | No | Project | Status |  | No | Project | Status |  | No | Project | Status |
 | 1 | Libft | Success |  | 10A | cub3d | Lock |  | 20 | NetPractice | Lock |
 
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 <br>
 <br>
 
