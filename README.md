@@ -53,17 +53,17 @@
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
-| 1  | libft   | [![yacis's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2629141)](https://github.com/JaeSeoKim/badge42) |  | 10A | cub3d   | Lock   |  | 20 | NetPractice | Lock   |
-| 2  | born2beroot   | [![yacis's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2647514)](https://github.com/JaeSeoKim/badge42) |  | 10B | miniRT   | Lock   |  | 21 | ft_containers | Lock   |
-| 3  | ft_printf   | [![yacis's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2643400)](https://github.com/JaeSeoKim/badge42) |  | 11 | CPP Module 00   | Lock   |  | 22A | ft_irc | Lock   |
-| 4  | get_next_line   | [![yacis's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2644582)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | Lock   |  | 22B | webserv | Lock   |
-| 5A  | FdF   | Lock |  | 13 | CPP Module 02   | Lock   |  | 23 | inception | Lock   |
-| 5B  | so_long   | Lock |  | 14 | CPP Module 03   | Lock   |  | 24 | ft_transcendence | Lock   |
-| 6A  | minitalk   | Lock |  | 15 | CPP Module 04   | Lock   |  |  |  |    |
-| 6B  | pipex   | Lock |  | 16 | CPP Module 05   | Lock   |  |  |  |   |
-| 7  | push_swap   | Lock |  | 17 | CPP Module 06   | Lock   |  |  |  |    |
-| 8  | minishell   | Lock |  | 18 | CPP Module 07   | Lock   |  |  |  |    |
-| 9  | philosphers   | Lock |  | 19 | CPP Module 08   | Lock   |  |  |  |    |
+| 1  | libft   | [![yacis's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2629141)](https://github.com/JaeSeoKim/badge42) |  | 10A | cub3d   | 🔒   |  | 20 | NetPractice | Lock   |
+| 2  | born2beroot   | [![yacis's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2647514)](https://github.com/JaeSeoKim/badge42) |  | 10B | miniRT   | 🔒   |  | 21 | ft_containers | 🔒   |
+| 3  | ft_printf   | [![yacis's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2643400)](https://github.com/JaeSeoKim/badge42) |  | 11 | CPP Module 00   | 🔒   |  | 22A | ft_irc | 🔒   |
+| 4  | get_next_line   | [![yacis's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2644582)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
+| 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
+| 5B  | so_long   | 🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
+| 6A  | minitalk   | 🔒 |  | 15 | CPP Module 04   | 🔒   |  |  |  |    |
+| 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  |  |  |   |
+| 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  |  |  |    |
+| 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  |  |  |    |
+| 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  |  |  |    |
 
  *☕️ Now you can buy me a coffee!*
  
