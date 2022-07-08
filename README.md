@@ -17,7 +17,6 @@
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackerrank.svg" align="left" />][hackerrank]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" align="left" />][stackoverflow]
 
-<br/>
 
 [linkedin]:https://www.linkedin.com/in/yakupacs/
 [instagram]:https://www.instagram.com/yakupacs/
@@ -46,6 +45,10 @@
 
 ## Views
 ![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
+
+## Ecole 42 Stats
+
+[![yacis's 42 stats](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
