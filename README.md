@@ -43,9 +43,6 @@
 ## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&layout=compact)](https://github.com/yakupacs)
 
-## Views
-![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
-
 ## Ecole 42 Stats
 
 [![yacis's 42 stats](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
@@ -64,6 +61,9 @@
 | 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  |  |  |    |
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  |  |  |    |
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  |  |  |    |
+
+## Views
+![](https://komarev.com/ghpvc/?username=yakupacs&color=yellow)
 
  *☕️ Now you can buy me a coffee!*
  
