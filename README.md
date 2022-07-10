@@ -63,7 +63,7 @@
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  |  |  |    |
 
 ## Profile Views
-<p align="center">
+<p>
   <img width="120" height="20" src="https://komarev.com/ghpvc/?username=yakupacs&color=blue">
 </p>
 
