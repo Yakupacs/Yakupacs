@@ -45,7 +45,7 @@
 
 ## Ecole 42 Stats
 
-[![yacis's 42 stats](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/stats?cursusId=21&coalitionId=227)](https://github.com/JaeSeoKim/badge42)
+[![yacis's 42 stats](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/stats?cursusId=21&coalitionId=227)](https://github.com/yakupacs)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
