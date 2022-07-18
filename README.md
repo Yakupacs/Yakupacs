@@ -57,7 +57,7 @@
 | 4  | get_next_line   | [![yacis's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2644582)](https://github.com/Yakupacs/Ecole42_Get_Next_Line) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
 | 5B  | so_long   | 🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
-| 6A  | minitalk   | 🔒 |  | 15 | CPP Module 04   | 🔒   |  |  |  |    |
+| 6A  | minitalk   | [![yacis's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2671123)](https://github.com/yakupacs/ecole42_minitalk) |  | 15 | CPP Module 04   | 🔒   |  |  |  |    |
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  |  |  |   |
 | 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  |  |  |    |
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  |  |  |    |
