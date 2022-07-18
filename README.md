@@ -27,6 +27,7 @@
 <br/>
 
 ## I’m currently working on <br>
+• [Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
 • [Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
 • [Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
 • [Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
