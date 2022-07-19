@@ -70,5 +70,4 @@
   <img width="120" height="20" src="https://komarev.com/ghpvc/?username=yakupacs&color=blue">
 </p>
 
-## Coffee Time Now
-<a href="https://www.buymeacoffee.com/yakupacs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<img src="https://user-images.githubusercontent.com/73075252/179644482-0d6cb046-f897-4458-9ccc-fe3db6058985.svg#gh-dark-mode-only">
