@@ -27,7 +27,7 @@
 <br/>
 
 ## I’m currently working on <br>
-• [FrontEnd Exercise](https://github.com/Yakupacs/FrontEnd-Example) <br>
+• [Front-End Exercise](https://github.com/Yakupacs/Front-End-Example) <br>
 • [Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
 • [Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
 • [Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
