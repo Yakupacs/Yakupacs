@@ -71,4 +71,4 @@
 </p>
 
 ## Contributions Snake 
-<img src="https://user-images.githubusercontent.com/73075252/179644482-0d6cb046-f897-4458-9ccc-fe3db6058985.svg#gh-dark-mode-only">
+<img src="https://user-images.githubusercontent.com/73075252/179644482-0d6cb046-f897-4458-9ccc-fe3db6058985.svg">
