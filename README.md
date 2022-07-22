@@ -11,11 +11,11 @@
 *You can reach me below.*
 <br/>
 <br/>
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sololearn.svg" align="left" />][sololearn]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackerrank.svg" align="left" />][hackerrank]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" align="left" />][stackoverflow]
+[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
+[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
+[<img width="22" src="https://blob.sololearn.com/avatars/sololearn.png" align="left" />][sololearn]
+[<img width="22" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" align="left" />][hackerrank]
+[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" align="left" />][stackoverflow]
 
 
 [linkedin]:https://www.linkedin.com/in/yakupacs/
