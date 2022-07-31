@@ -57,12 +57,12 @@ You can reach me below.
 | 3  | ft_printf   | [![yacis's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2643400)](https://github.com/Yakupacs/Ecole42_Printf) |  | 11 | CPP Module 00   | 🔒   |  | 22A | ft_irc | 🔒   |
 | 4  | get_next_line   | [![yacis's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2644582)](https://github.com/Yakupacs/Ecole42_Get_Next_Line) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
-| 5B  | so_long   | 🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
-| 6A  | minitalk   | [![yacis's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2671123)](https://github.com/yakupacs/ecole42_minitalk) |  | 15 | CPP Module 04   | 🔒   |  |  |  |    |
-| 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  |  |  |   |
-| 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  |  |  |    |
-| 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  |  |  |    |
-| 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  |  |  |    |
+| 5B  | so_long   | [![yacis's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2688691)](https://github.com/JaeSeoKim/badge42) |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
+| 6A  | minitalk   | [![yacis's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2671123)](https://github.com/yakupacs/ecole42_minitalk) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 |  [![yacis's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2696658)](https://github.com/JaeSeoKim/badge42)  |
+| 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
+| 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
+| 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
+| 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 |  🔒  |
 
 ## Profile Views
 <p>
