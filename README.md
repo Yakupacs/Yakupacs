@@ -43,7 +43,7 @@ You can reach me below.
 
 
 ## Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&layout=compact&theme=tokyonight)](https://github.com/yakupacs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&langs_count=8&theme=tokyonight)](https://github.com/yakupacs)
 
 ## Ecole 42 Stats
 
