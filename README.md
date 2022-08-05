@@ -26,7 +26,8 @@ You can reach me below.
 <br/>
 
 ## I’m currently working on <br>
-• [Front-End Exercise](https://github.com/Yakupacs/Front-End-Example) <br>
+• [Learn Swift](https://github.com/Yakupacs/Swift-Apps) <br>
+• [Front-End Example](https://github.com/Yakupacs/Front-End-Example) <br>
 • [Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
 • [Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
 • [Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
