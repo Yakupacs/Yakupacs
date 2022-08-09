@@ -26,15 +26,15 @@ You can reach me below.
 <br/>
 
 ## I’m currently working on <br>
-• [Learn Swift](https://github.com/Yakupacs/Swift-Apps) <br>
-• [Front-End Example](https://github.com/Yakupacs/Front-End-Example) <br>
+• [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
+• [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
 • [Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
 • [Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
 • [Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
 • [Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
 • [Libft](https://github.com/Yakupacs/Libft) <br>
-• [Python Exercises](https://github.com/Yakupacs/Python-Cursus-BTK.git) <br>
-• [HTML Exercises](https://github.com/Yakupacs/HTML-Cursus-BTK) <br>
+• [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
+• [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
