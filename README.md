@@ -28,13 +28,13 @@ You can reach me below.
 ## I’m currently working on <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
+• [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
+• [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 • [Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
 • [Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
 • [Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
 • [Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
 • [Libft](https://github.com/Yakupacs/Libft) <br>
-• [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
-• [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
