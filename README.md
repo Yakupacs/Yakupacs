@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/178127233-336f8b2a-76b6-46ca-a4df-3a01b17cadba.gif">
+  <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/183584960-9f7e9df3-68cd-4e7d-9b4f-5df77e439fdc.gif">
 </p>
 
 ## Hi, I'm Yakup Açış
