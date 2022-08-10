@@ -40,11 +40,11 @@ You can reach me below.
 
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
 
 
 ## Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&langs_count=8&theme=tokyonight)](https://github.com/yakupacs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Ecole 42 Stats
 
