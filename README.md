@@ -26,6 +26,8 @@ You can reach me below.
 <br/>
 
 ## I’m currently working on <br>
+• [English Learn Word Application](https://github.com/Yakupacs/English-Learn-Word-Application) <br>
+• [The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
 • [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
