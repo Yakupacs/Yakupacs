@@ -26,6 +26,7 @@ You can reach me below.
 <br/>
 
 ## I’m currently working on <br>
+• [So_Long](https://github.com/Yakupacs/Ecole42_So_Long) <br>
 • [English Learn Word Application](https://github.com/Yakupacs/English-Learn-Word-Application) <br>
 • [The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
