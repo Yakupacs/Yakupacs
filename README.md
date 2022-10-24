@@ -26,18 +26,20 @@ You can reach me below.
 <br/>
 
 ## I’m currently working on <br>
-• [So_Long](https://github.com/Yakupacs/Ecole42_So_Long) <br>
+• [42 Philosophers](https://github.com/Yakupacs/42Ecole-Philosophers) <br>
+• [42 Push_Swap](https://github.com/Yakupacs/42Ecole_Push_Swap) <br>
+• [42 So_Long](https://github.com/Yakupacs/Ecole42_So_Long) <br>
 • [English Learn Word Application](https://github.com/Yakupacs/English-Learn-Word-Application) <br>
 • [The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
 • [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
 • [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
-• [Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
-• [Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
-• [Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
-• [Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
-• [Libft](https://github.com/Yakupacs/Libft) <br>
+• [42 Minitalk](https://github.com/Yakupacs/Ecole42_Minitalk) <br>
+• [42 Born2beroot](https://github.com/Yakupacs/Ecole42_Born2beroot) <br>
+• [42 Get Next Line](https://github.com/Yakupacs/Ecole42_Get_Next_Line) <br>
+• [42 Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
+• [42 Libft](https://github.com/Yakupacs/Libft) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
