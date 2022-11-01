@@ -67,7 +67,7 @@ You can reach me below.
 | 6A  | minitalk   | [![yacis's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2671123)](https://github.com/yakupacs/ecole42_minitalk) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 |  [![yacis's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2696658)](https://github.com/JaeSeoKim/badge42)  |
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
 | 7  | push_swap   | [![yacis's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2699221)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
-| 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
+| 8  | minishell   | [![yacis's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2857662)](https://github.com/JaeSeoKim/badge42) |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
 | 9  | philosphers   | [![yacis's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl5d1bsok003509l94ic4d4cn/project/2846894)](https://github.com/JaeSeoKim/badge42) |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 |  🔒  |
 
 ## Profile Views
