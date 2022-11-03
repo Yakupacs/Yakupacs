@@ -54,7 +54,6 @@ You can reach me below.
 • [Python Flappy Bird](https://github.com/Yakupacs/Python-Flappy-Bird) <br>
 • [Python Face Detection](https://github.com/Yakupacs/Python-Face-Detection) <br>
 • [Python Whatsapp Bot](https://github.com/Yakupacs/Python-Whatsapp-Bot) <br>
-• [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
