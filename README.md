@@ -2,7 +2,7 @@
   <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/188338814-0641cbe1-284a-44c0-a673-44847fb4a88d.gif">
 </p>
 
-## Hi, I'm Yakup Açış
+## About Me
 Hello, I'm Yakup Açış. I am studying Computer Engineering at Beykent University and I am a student at Ecole 42. I am improving my coding and algorithm skills at Ecole 42. In addition, I am also improving my teamwork skills and research skills. I have developed desktop applications with C# before. Then I learned how to scrape websites by writing bots with Python. Basically, I know these things. I have written my own website many times while developing myself in the front-end. I kept my HTML-CSS-JS knowledge active by making dynamic websites. Now, I'm learning how to create a mobile app with Swift. I am experienced in SQL Server and Git.
 </br>
 
