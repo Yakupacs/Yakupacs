@@ -26,6 +26,7 @@ You can reach me below.
 <br/>
 
 ## 42 Works <br>
+• [42 Minishell](https://github.com/Yakupacs/Ecole42_Minishell) <br>
 • [42 Philosophers](https://github.com/Yakupacs/42Ecole-Philosophers) <br>
 • [42 Push_Swap](https://github.com/Yakupacs/42Ecole_Push_Swap) <br>
 • [42 Exam](https://github.com/Yakupacs/42Exam) <br>
