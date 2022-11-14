@@ -38,23 +38,26 @@ You can reach me below.
 • [42 Libft](https://github.com/Yakupacs/Libft) <br>
 • [42 Piscine](https://github.com/Yakupacs/42-Piscine) <br>
 
-
-## Personal Works <br>
-• [Java Android Projects](https://github.com/Yakupacs/Android-Projects) <br>
+## Swift Works <br>
 • [Swift Rocket Attacking Planets Game](https://github.com/Yakupacs/Rocket-Attacking-Planets-Swift) <br>
 • [Swift Millionaire App](https://github.com/Yakupacs/Millionaire-Test-Swift) <br>
 • [Swift English Learn Word App](https://github.com/Yakupacs/English-Learn-Word-Application) <br>
 • [Swift The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
-• [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
-• [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
-• [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
-• [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
+
+## Python Works <br>
 • [Python Selenium Bots](https://github.com/Yakupacs/Python-Bots) <br>
 • [Python Pinpong Game](https://github.com/Yakupacs/Python-Pinpong-Game) <br>
 • [Python Flappy Bird](https://github.com/Yakupacs/Python-Flappy-Bird) <br>
 • [Python Face Detection](https://github.com/Yakupacs/Python-Face-Detection) <br>
 • [Python Whatsapp Bot](https://github.com/Yakupacs/Python-Whatsapp-Bot) <br>
+• [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
+
+## Other Works <br>
+• [Java Android Projects](https://github.com/Yakupacs/Android-Projects) <br>
+• [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
+• [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
+• [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
 
