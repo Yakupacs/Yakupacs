@@ -3,7 +3,7 @@
 </p>
 
 ## Hi, I'm Yakup Açış
-I'm Yakup Açış. I live in Istanbul, Turkey. I am studying Computer Engineering from Beykent University. I am learning Swift and SwiftUI.
+Hello, I'm Yakup Açış. I am studying Computer Engineering at Beykent University and I am a student at Ecole 42. I am improving my coding and algorithm skills at Ecole 42. In addition, I am also improving my teamwork skills and research skills. I have developed desktop applications with C# before. Then I learned how to scrape websites by writing bots with Python. Basically, I know these things. I have written my own website many times while developing myself in the front-end. I kept my HTML-CSS-JS knowledge active by making dynamic websites. Now, I'm learning how to create a mobile app with Swift. I am experienced in SQL Server and Git.
 </br>
 
 ## How to reach me
