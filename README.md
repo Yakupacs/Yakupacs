@@ -56,6 +56,7 @@ You can reach me below.
 • [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 
 ## Other Works <br>
+• [Java Millionaire Test Game](https://github.com/Yakupacs/Millionaire-Test-Android) <br>
 • [Java Android Mini Projects](https://github.com/Yakupacs/Android-Projects) <br>
 • [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
