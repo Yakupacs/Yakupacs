@@ -56,7 +56,7 @@ You can reach me below.
 • [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 
 ## Other Works <br>
-• [Java Android Projects](https://github.com/Yakupacs/Android-Projects) <br>
+• [Java Android Mini Projects](https://github.com/Yakupacs/Android-Projects) <br>
 • [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
 • [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
