@@ -25,6 +25,16 @@ You can reach me below.
 
 <br/>
 
+## Swift Works <br>
+• [Swift Deafy Music App](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
+• [Swift English Learn Word App](https://github.com/Yakupacs/English-Learn-Word-Application) <br>
+• [Swift Millionaire App](https://github.com/Yakupacs/Millionaire-Test-Swift) <br>
+• [Swift The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
+• [Swift Rocket Attacking Planets Game](https://github.com/Yakupacs/Rocket-Attacking-Planets-Swift) <br>
+• [Swift Catch The Kenny](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2004%20-%20Catch%20The%20Kenny) <br>
+• [Swift To Do List](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2007%20-%20Todo%20List) <br>
+• [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
+
 ## 42 Works <br>
 • [42 Minishell](https://github.com/Yakupacs/Ecole42_Minishell) <br>
 • [42 Philosophers](https://github.com/Yakupacs/42Ecole-Philosophers) <br>
@@ -37,15 +47,6 @@ You can reach me below.
 • [42 Printf](https://github.com/Yakupacs/Ecole42_Printf) <br>
 • [42 Libft](https://github.com/Yakupacs/Libft) <br>
 • [42 Piscine](https://github.com/Yakupacs/42-Piscine) <br>
-
-## Swift Works <br>
-• [Swift English Learn Word App](https://github.com/Yakupacs/English-Learn-Word-Application) <br>
-• [Swift Millionaire App](https://github.com/Yakupacs/Millionaire-Test-Swift) <br>
-• [Swift The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
-• [Swift Rocket Attacking Planets Game](https://github.com/Yakupacs/Rocket-Attacking-Planets-Swift) <br>
-• [Swift Catch The Kenny](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2004%20-%20Catch%20The%20Kenny) <br>
-• [Swift To Do List](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2007%20-%20Todo%20List) <br>
-• [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 
 ## Python Works <br>
 • [Python Selenium Bots](https://github.com/Yakupacs/Python-Bots) <br>
