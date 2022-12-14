@@ -48,6 +48,11 @@ You can reach me below.
 • [42 Libft](https://github.com/Yakupacs/Libft) <br>
 • [42 Piscine](https://github.com/Yakupacs/42-Piscine) <br>
 
+## Android Works
+• [Java PDF Book Lister App](https://github.com/Yakupacs/PDF-Book-Lister-App-Android)<br>
+• [Java Millionaire Test Game](https://github.com/Yakupacs/Millionaire-Test-Android) <br>
+• [Java Android Mini Projects](https://github.com/Yakupacs/Android-Projects) <br>
+
 ## Python Works <br>
 • [Python Selenium Bots](https://github.com/Yakupacs/Python-Bots) <br>
 • [Python Pinpong Game](https://github.com/Yakupacs/Python-Pinpong-Game) <br>
@@ -57,8 +62,6 @@ You can reach me below.
 • [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 
 ## Other Works <br>
-• [Java Millionaire Test Game](https://github.com/Yakupacs/Millionaire-Test-Android) <br>
-• [Java Android Mini Projects](https://github.com/Yakupacs/Android-Projects) <br>
 • [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
 • [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
