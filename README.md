@@ -49,7 +49,7 @@ You can reach me below.
 • [42 Piscine](https://github.com/Yakupacs/42-Piscine) <br>
 
 ## Android Works
-• [Java PDF Book Lister App](https://github.com/Yakupacs/PDF-Book-Lister-App-Android)<br>
+• [Java Book Management App](https://github.com/Yakupacs/PDF-Book-Lister-App-Android)<br>
 • [Java Millionaire Test Game](https://github.com/Yakupacs/Millionaire-Test-Android) <br>
 • [Java Android Mini Projects](https://github.com/Yakupacs/Android-Projects) <br>
 
