@@ -7,7 +7,8 @@ Hello, I'm Yakup Açış. I am studying Computer Engineering at Beykent Universi
 </br>
 
 ## How to reach me
-You can reach me below.
+You can reach me below. </br>
+www.yakupacis.com
 <br/>
 <br/>
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
