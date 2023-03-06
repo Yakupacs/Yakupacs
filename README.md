@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-Hello, I'm Yakup Açış. I am studying Computer Engineering at Beykent University and I am a student at Ecole 42. I am improving my coding and algorithm skills at Ecole 42. In addition, I am also improving my teamwork skills and research skills. I have developed desktop applications with C# before. Then I learned how to scrape websites by writing bots with Python. Basically, I know these things. I have written my own website many times while developing myself in the front-end. I kept my HTML-CSS-JS knowledge active by making dynamic websites. Now, I'm learning how to create a mobile app with Swift. I am experienced in SQL Server and Git.
+Hello, my name is Yakup Açış. I am a fourth-year student studying Computer Engineering at Beykent University. Additionally, I am an active student at 42 Istanbul, which is a software school under the Turkey Open Source Platform. At 42 Istanbul, I strengthen my coding and algorithm skills, as well as develop my teamwork and research abilities. I am proficient in areas such as desktop application development with C#, web scraping with Python, and building dynamic websites with HTML-CSS-Javascript. For almost a year now, I have been developing my skills in Swift and have published my first application, a language learning app called Hiword English Vocabulary, on the App Store. I continue to develop this application. I am also knowledgeable in SQL query languages and Git, and I upload my active projects to Github.
 </br>
 
 ## How to reach me
