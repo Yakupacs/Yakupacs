@@ -29,7 +29,6 @@ www.yakupacis.com
 <br/>
 
 ## Swift Works <br>
-• [Swift Country Features](https://github.com/Yakupacs/Country-Features) <br>
 • [Swift Flickr Client API](https://github.com/Yakupacs/Flickr-Client-API-Swift) <br>
 • [Swift Deafy Music App](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
 • [Swift RSA Algorithm App](https://github.com/Yakupacs/RSA-Algorithm-App-Swift) <br>
