@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="846" height="476" src="https://user-images.githubusercontent.com/73075252/206860600-2b962467-bd7f-469e-8df7-5504228d285c.png">
-</p>
-
 ## About Me
 Hello, my name is Yakup Açış. I am a fourth-year student studying Computer Engineering at Beykent University. Additionally, I am an active student at 42 Istanbul, which is a software school under the Turkey Open Source Platform. At 42 Istanbul, I strengthen my coding and algorithm skills, as well as develop my teamwork and research abilities. I am proficient in areas such as desktop application development with C#, web scraping with Python, and building dynamic websites with HTML-CSS-Javascript. For almost a year now, I have been developing my skills in Swift and have published my first application, a language learning app called Hiword English Vocabulary, on the App Store. I continue to develop this application. I am also knowledgeable in SQL query languages and Git, and I upload my active projects to Github.
 </br>
