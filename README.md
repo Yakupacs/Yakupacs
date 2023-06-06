@@ -5,6 +5,7 @@ Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in C
 [<img width="40" src="https://firebasestorage.googleapis.com/v0/b/ticmeet-161a6.appspot.com/o/Screenshot%202023-03-01%20at%2014.14.28%20(3).png?alt=media&token=932bdff0-c699-4425-ac92-d65bc75ede6a&_gl=1*1kz2bz2*_ga*NDAxMDkwNzg2LjE2Nzg5ODUxNzE.*_ga_CW55HF8NVT*MTY4NjA5NTUzNC4yNC4xLjE2ODYwOTU1NzAuMC4wLjA." align="left" />][hiword]
 
 </br>
+</br>
 
 ## How to reach me
 You can reach me below. </br>
