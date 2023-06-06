@@ -1,5 +1,5 @@
 ## About Me
-Hello, my name is Yakup Açış. I am a fourth-year student studying Computer Engineering at Beykent University. Additionally, I am an active student at 42 Istanbul, which is a software school under the Turkey Open Source Platform. At 42 Istanbul, I strengthen my coding and algorithm skills, as well as develop my teamwork and research abilities. I am proficient in areas such as desktop application development with C#, web scraping with Python, and building dynamic websites with HTML-CSS-Javascript. For almost a year now, I have been developing my skills in Swift and have published my first application, a language learning app called Hiword English Vocabulary, on the App Store. I continue to develop this application. I am also knowledgeable in SQL query languages and Git, and I upload my active projects to Github.
+Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in Computer Engineering. I'm 23 years old. I have been a student at 42 Istanbul for 1 year. I have been coding applications with the Swift language for 1 year, and recently, I have released an English vocabulary learning application called Hiword on the App Store, which I designed and coded myself.
 </br>
 
 ## How to reach me
