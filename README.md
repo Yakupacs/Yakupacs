@@ -2,6 +2,12 @@
 Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in Computer Engineering. I'm 23 years old. I have been a student at 42 Istanbul for 1 year. I have been coding applications with the Swift language for 1 year, and recently, I have released an English vocabulary learning application called Hiword on the App Store, which I designed and coded myself.
 </br>
 
+</br>
+
+[<img width="40" src="https://firebasestorage.googleapis.com/v0/b/ticmeet-161a6.appspot.com/o/Screenshot%202023-03-01%20at%2014.14.28%20(3).png?alt=media&token=932bdff0-c699-4425-ac92-d65bc75ede6a&_gl=1*1kz2bz2*_ga*NDAxMDkwNzg2LjE2Nzg5ODUxNzE.*_ga_CW55HF8NVT*MTY4NjA5NTUzNC4yNC4xLjE2ODYwOTU1NzAuMC4wLjA." align="left" />][hiword]
+
+</br>
+
 ## How to reach me
 You can reach me below. </br>
 www.yakupacis.com
@@ -21,6 +27,7 @@ www.yakupacis.com
 [sololearn]:https://www.sololearn.com/profile/20751899
 [hackerrank]:https://www.hackerrank.com/ykpacs
 [stackoverflow]:https://stackoverflow.com/users/19217480/yakup-açış
+[hiword]:https://apps.apple.com/tr/app/hiword/id6445995518
 
 <br/>
 
