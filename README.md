@@ -69,6 +69,7 @@ www.yakupacis.com
 • [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 
 ## Other Works <br>
+• [Heart Disease AI](https://github.com/Yakupacs/Heart-Disease-AI) <br>
 • [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
 • [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
