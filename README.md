@@ -9,7 +9,6 @@
 </br>
 
 ## How to reach me
-You can reach me below. </br>
 
 [<img width="22" src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" align="left" />][appstore]
 [<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
