@@ -29,7 +29,7 @@ Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in C
 <br/>
 <br/>
 
-## Swift Works <br>
+## Swift Works 
 • [Swift Ticmeet App](https://github.com/Yakupacs/Ticmeet-App) <br>
 • [Swift Flickr Client API](https://github.com/Yakupacs/Flickr-Client-API-Swift) <br>
 • [Swift Deafy Music App](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
@@ -41,7 +41,7 @@ Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in C
 • [Swift To Do List](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2007%20-%20Todo%20List) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 
-## 42 Works <br>
+## 42 Works
 • [42 Minishell](https://github.com/Yakupacs/Ecole42_Minishell) <br>
 • [42 Philosophers](https://github.com/Yakupacs/42Ecole-Philosophers) <br>
 • [42 Push_Swap](https://github.com/Yakupacs/42Ecole_Push_Swap) <br>
@@ -59,7 +59,7 @@ Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in C
 • [Java Millionaire Test Game](https://github.com/Yakupacs/Millionaire-Test-Android) <br>
 • [Java Android Mini Projects](https://github.com/Yakupacs/Android-Projects) <br>
 
-## Python Works <br>
+## Python Works
 • [Python Selenium Bots](https://github.com/Yakupacs/Python-Bots) <br>
 • [Python Pinpong Game](https://github.com/Yakupacs/Python-Pinpong-Game) <br>
 • [Python Flappy Bird](https://github.com/Yakupacs/Python-Flappy-Bird) <br>
@@ -67,7 +67,7 @@ Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in C
 • [Python Whatsapp Bot](https://github.com/Yakupacs/Python-Whatsapp-Bot) <br>
 • [Learn Python](https://github.com/Yakupacs/Learn-Python) <br>
 
-## Other Works <br>
+## Other Works
 • [Heart Disease AI](https://github.com/Yakupacs/Heart-Disease-AI) <br>
 • [C# Library Managament System](https://github.com/Yakupacs/CSharp-Library-Management-System) <br>
 • [Learn JavaScript](https://github.com/Yakupacs/Learn-JavaScript) <br>
