@@ -1,5 +1,5 @@
 ## About Me
-Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in Computer Engineering. I'm 23 years old. I have been a student at 42 Istanbul for 1 year. I have been coding applications with the Swift language for 1 year, and recently, I have released an English vocabulary learning application called Hiword on the App Store, which I designed and coded myself.
+Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent University. I am a main education student at 42 Istanbul. I develop iOS mobile applications using the Swift language. I own an English Vocabulary Learning app called Hiword on the App Store.
 
 </br>
 
