@@ -9,10 +9,10 @@ Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent 
 
 ## How to reach me
 
-[<img width="30" src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" align="left" />][appstore]
 [<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
 [<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
 [<img width="30" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" align="left" />][medium]
+[<img width="30" src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" align="left" />][appstore]
 
 
 [appstore]:https://apps.apple.com/tr/developer/yakup-acis/id1671032278?l=tr
