@@ -28,8 +28,8 @@ Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent 
 • [Swift X Twitter Clone](https://github.com/Yakupacs/X-Twitter-Clone-iOS) <br>
 • [Swift Techcareer Bootcamp](https://github.com/Yakupacs/Techcareer-iOS-Bootcamp) <br>
 • [Swift Ticmeet App](https://github.com/Yakupacs/Ticmeet-App) <br>
+• [Swift Spotify Clone](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
 • [Swift Flickr Client API](https://github.com/Yakupacs/Flickr-Client-API-Swift) <br>
-• [Swift Deafy Music App](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
 • [Swift RSA Algorithm App](https://github.com/Yakupacs/RSA-Algorithm-App-Swift) <br>
 • [Swift Millionaire App](https://github.com/Yakupacs/Millionaire-Test-Swift) <br>
 • [Swift The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
