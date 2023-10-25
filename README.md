@@ -1,5 +1,5 @@
 ## About Me
-Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent University. I am a main education student at 42 Istanbul. I develop iOS mobile applications using the Swift language. I own an English Vocabulary Learning app called Hiword on the App Store.
+Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent University. I am a main education student at 42 Istanbul. I develop iOS mobile applications using the Swift and SwiftUI language. I own an English Vocabulary Learning app called Hiword on the App Store.
 
 
 [<img width="30" src="https://firebasestorage.googleapis.com/v0/b/ticmeet-161a6.appspot.com/o/Screenshot%202023-03-01%20at%2014.14.28%20(3).png?alt=media&token=932bdff0-c699-4425-ac92-d65bc75ede6a&_gl=1*1kz2bz2*_ga*NDAxMDkwNzg2LjE2Nzg5ODUxNzE.*_ga_CW55HF8NVT*MTY4NjA5NTUzNC4yNC4xLjE2ODYwOTU1NzAuMC4wLjA." align="left" />][hiword]
