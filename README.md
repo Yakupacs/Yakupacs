@@ -26,9 +26,10 @@ Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent 
 <br/>
 
 ## Swift Works 
-• [Learn SwiftUI](https://github.com/Yakupacs/Learn-SwiftUI/tree/main) <br>
-• [Swift Yemek Yolda](https://github.com/Yakupacs/YemekYolda) <br>
+
+• [Swift Pokedex App](https://github.com/Yakupacs/PokedexApp) <br>
 • [Swift Pazarama Bootcamp](https://github.com/Yakupacs/Pazarama-iOS-Bootcamp) <br>
+• [Swift Yemek Yolda](https://github.com/Yakupacs/YemekYolda) <br>
 • [Swift Techcareer Bootcamp](https://github.com/Yakupacs/Techcareer-iOS-Bootcamp) <br>
 • [Swift Ticmeet App](https://github.com/Yakupacs/Ticmeet-App) <br>
 • [Swift Spotify Clone](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
@@ -39,6 +40,7 @@ Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent 
 • [Swift Rocket Attacking Planets Game](https://github.com/Yakupacs/Rocket-Attacking-Planets-Swift) <br>
 • [Swift Catch The Kenny](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2004%20-%20Catch%20The%20Kenny) <br>
 • [Swift To Do List](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2007%20-%20Todo%20List) <br>
+• [Learn SwiftUI](https://github.com/Yakupacs/Learn-SwiftUI/tree/main) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 
 ## 42 Works
