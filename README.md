@@ -36,11 +36,6 @@ Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent 
 • [Swift Spotify Clone](https://github.com/Yakupacs/Deafy-Music-App-Swift) <br>
 • [Swift Flickr Client API](https://github.com/Yakupacs/Flickr-Client-API-Swift) <br>
 • [Swift RSA Algorithm App](https://github.com/Yakupacs/RSA-Algorithm-App-Swift) <br>
-• [Swift Millionaire App](https://github.com/Yakupacs/Millionaire-Test-Swift) <br>
-• [Swift The Hangman](https://github.com/Yakupacs/Hangman-Swift) <br>
-• [Swift Rocket Attacking Planets Game](https://github.com/Yakupacs/Rocket-Attacking-Planets-Swift) <br>
-• [Swift Catch The Kenny](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2004%20-%20Catch%20The%20Kenny) <br>
-• [Swift To Do List](https://github.com/Yakupacs/Learn-Swift/tree/master/Project%2007%20-%20Todo%20List) <br>
 • [Learn SwiftUI](https://github.com/Yakupacs/Learn-SwiftUI/tree/main) <br>
 • [Learn Swift](https://github.com/Yakupacs/Learn-Swift) <br>
 
