@@ -2,7 +2,8 @@
 Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent University. I am a main education student at 42 Istanbul. I develop iOS mobile applications using the Swift and SwiftUI language. I own an English Vocabulary Learning app called Hiword on the App Store.
 
 
-[<img width="30" src="https://firebasestorage.googleapis.com/v0/b/ticmeet-161a6.appspot.com/o/Screenshot%202023-03-01%20at%2014.14.28%20(3).png?alt=media&token=932bdff0-c699-4425-ac92-d65bc75ede6a&_gl=1*1kz2bz2*_ga*NDAxMDkwNzg2LjE2Nzg5ODUxNzE.*_ga_CW55HF8NVT*MTY4NjA5NTUzNC4yNC4xLjE2ODYwOTU1NzAuMC4wLjA." align="left" />][hiword]
+[<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/d1/8f/b2d18f2c-42f6-9599-470f-638f55a82b36/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/460x0w.webp" align="left" />][sentensearch]
+[<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/09/83/1d098316-7720-7b50-a452-87d248cbce8c/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/460x0w.webp" align="left" />][hiword]
 
 </br>
 </br>
@@ -21,6 +22,7 @@ Hello, I am Yakup Açış. I am a graduate of Computer Engineering from Beykent 
 [appstore]:https://apps.apple.com/tr/developer/yakup-acis/id1671032278?l=tr
 [mail]:mailto:ykpacs@gmail.com
 [hiword]:https://apps.apple.com/tr/app/hiword/id6445995518
+[sentensearch]:https://apps.apple.com/tr/app/sentence-search-english/id6474073167
 
 <br/>
 <br/>
