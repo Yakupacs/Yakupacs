@@ -1,8 +1,8 @@
 ## About Me
-Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in Computer Engineering in 2023, and I have been actively developing iOS mobile applications for approximately 2 years. Currently, I have 2 applications available on the App Store. Through these projects, I have successfully mastered various frameworks and architectural structures in the Swift programming language. Additionally, I have been a student at 42 Istanbul coding school for 2 years, where I work on various projects to enhance my skills in areas such as Thread Management, Memory Management, Network, Clean Code, Unix, and more.
+Experienced iOS Developer with 3+ years of professional experience specializing in scalable mobile applications. Published 2 applications on the App Store with 2,200+ combined users. Proficient in Swift, SwiftUI, UIKit, and MVVM architecture.
 
 [<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/d1/8f/b2d18f2c-42f6-9599-470f-638f55a82b36/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/460x0w.webp" align="left" />][sentensearch]
-[<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/09/83/1d098316-7720-7b50-a452-87d248cbce8c/AppIcon-0-0-1x_U007ephone-0-0-sRGB-85-220.png/460x0w.webp" align="left" />][hiword]
+[<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/e6/39/6be63960-8127-cabd-098c-d31d0a22e5bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png" align="left" />][muvai]
 
 </br>
 </br>
@@ -20,7 +20,7 @@ Hello, I'm Yakup Açış. I graduated from Beykent University with a degree in C
 [medium]:https://medium.com/@yakupacs
 [appstore]:https://apps.apple.com/tr/developer/yakup-acis/id1671032278?l=tr
 [mail]:mailto:ykpacs@gmail.com
-[hiword]:https://apps.apple.com/tr/app/hiword/id6445995518
+[muvai]:https://apps.apple.com/tr/app/muvai-ai-film-%C3%B6nerileri/id6756982756?l=tr
 [sentensearch]:https://apps.apple.com/tr/app/sentence-search-english/id6474073167
 
 <br/>
