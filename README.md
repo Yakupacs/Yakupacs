@@ -100,17 +100,3 @@ Experienced iOS Developer with 3+ years of professional experience specializing 
 • [Learn HTML-CSS](https://github.com/Yakupacs/Learn-HTML-CSS) <br>
 • [HackerRank C Projects](https://github.com/Yakupacs/HackerRank-C-Projects) <br> 
 • [SoloLearn Python Projects](https://github.com/Yakupacs/SoloLearn-Python) <br>
-
-## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakupacs&theme=radical)
-
-## Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupacs&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Profile Views
-<p>
-  <img width="120" height="20" src="https://komarev.com/ghpvc/?username=yakupacs&color=blue">
-</p>
-
-## Buy Me A Coffee
-<a href="https://www.buymeacoffee.com/yakupacs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
