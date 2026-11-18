@@ -38,9 +38,9 @@ Experienced iOS Developer with 3+ years of professional experience specializing 
 ## How to reach me
 
 [<img width="30" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" align="left" />][mail]
-[<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
-[<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
-[<img width="30" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" align="left" />][medium]
+[<img width="30" src="https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png" align="left" />][linkedin]
+[<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/250px-Instagram_logo_2016.svg.png" align="left" />][instagram]
+[<img width="30" src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png" align="left" />][medium]
 [<img width="30" src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" align="left" />][appstore]
 
 [linkedin]:https://www.linkedin.com/in/yakupacs/
