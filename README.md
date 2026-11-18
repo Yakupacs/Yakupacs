@@ -1,11 +1,39 @@
 ## About Me
-Experienced iOS Developer with 3+ years of professional experience specializing in scalable mobile applications. Published 2 applications on the App Store with 2,200+ combined users. Proficient in Swift, SwiftUI, UIKit, and MVVM architecture.
+Experienced iOS Developer with 3+ years of professional experience specializing in scalable mobile applications. Indie developer with 5 applications live on the App Store. Proficient in Swift, SwiftUI, UIKit, and MVVM architecture.
 
-[<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/d1/8f/b2d18f2c-42f6-9599-470f-638f55a82b36/AppIcon-0-0-1x_U007ephone-0-sRGB-85-220.png/460x0w.webp" align="left" />][sentensearch]
-[<img width="36" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/e6/39/6be63960-8127-cabd-098c-d31d0a22e5bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png" align="left" />][muvai]
+## My Apps on the App Store
 
-</br>
-</br>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://apps.apple.com/app/id6756982756"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/26/91/532691b0-a76d-b913-3e08-14229c524426/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg" width="88" alt="MuvAI" /></a><br/>
+      <b>MuvAI</b><br/>
+      <sub>AI movie & series picks for tonight</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://apps.apple.com/app/id6474073167"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/2b/60/b52b6001-1157-c9a3-12fa-5e5fda8c55a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="88" alt="Sentence Search" /></a><br/>
+      <b>Sentence Search</b><br/>
+      <sub>Learn English words in real sentences</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://apps.apple.com/app/id6771450970"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/5f/f2/265ff2b7-c5d3-8e5b-8300-bde2b37c085d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="88" alt="Cosmie" /></a><br/>
+      <b>Cosmie</b><br/>
+      <sub>Study together focus timer</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://apps.apple.com/app/id6822405523"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/cc/07/9acc0701-22f8-7fad-2c2b-937a565e8dec/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="88" alt="LinkScope" /></a><br/>
+      <b>LinkScope</b><br/>
+      <sub>Check links & URLs before you tap</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://apps.apple.com/app/id6828871032"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/dd/14/68dd1409-3bc2-8466-a022-9b041d4d391d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="88" alt="Jetlagger" /></a><br/>
+      <b>Jetlagger</b><br/>
+      <sub>Jet lag calculator & sleep plan</sub>
+    </td>
+  </tr>
+</table>
+
+<a href="https://apps.apple.com/developer/yakup-acis/id1671032278"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store" /></a>
 
 ## How to reach me
 
@@ -20,13 +48,11 @@ Experienced iOS Developer with 3+ years of professional experience specializing 
 [medium]:https://medium.com/@yakupacs
 [appstore]:https://apps.apple.com/tr/developer/yakup-acis/id1671032278?l=tr
 [mail]:mailto:ykpacs@gmail.com
-[muvai]:https://apps.apple.com/tr/app/muvai-ai-film-%C3%B6nerileri/id6756982756?l=tr
-[sentensearch]:https://apps.apple.com/tr/app/sentence-search-english/id6474073167
 
 <br/>
 <br/>
 
-## Swift Works 
+## Swift Works 
 
 • [Swift MoviBox App](https://github.com/Yakupacs/MoviBox) <br>
 • [Swift Pokedex App](https://github.com/Yakupacs/PokedexApp) <br>
