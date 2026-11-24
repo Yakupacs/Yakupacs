@@ -25,11 +25,6 @@ Experienced iOS Developer with 3+ years of professional experience specializing 
       <b>LinkScope</b><br/>
       <sub>Check links & URLs before you tap</sub>
     </td>
-    <td align="center" width="20%">
-      <a href="https://apps.apple.com/app/id6828871032"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/dd/14/68dd1409-3bc2-8466-a022-9b041d4d391d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="88" alt="Jetlagger" /></a><br/>
-      <b>Jetlagger</b><br/>
-      <sub>Jet lag calculator & sleep plan</sub>
-    </td>
   </tr>
 </table>
 
